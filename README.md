@@ -1,17 +1,6 @@
-<picture>
-  <source
-    href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Exo+2&size=30&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Ol%C3%A1+sou+o+Nick!+%F0%9F%98%8E" alt="Typing SVG"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Exo+2&size=30&pause=1000&color=000000&center=true&vCenter=true&width=435&lines=Ol%C3%A1+sou+o+Nick!+%F0%9F%98%8E" alt="Typing SVG"
-    media="(prefers-color-scheme: light)"
-  />
-</picture>
+<a id="lg" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Exo+2&size=30&pause=1000&color=000000&center=true&vCenter=true&width=435&lines=Ol%C3%A1+sou+o+Nick!+%F0%9F%98%8E" alt="Typing SVG" /></a>
 
-
-
-
+<a id="dk" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Exo+2&size=30&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Ol%C3%A1+sou+o+Nick!+%F0%9F%98%8E" alt="Typing SVG" /></a>
 
 Estou animado para compartilhar meus projetos com você neste portfólio. Espero que encontre inspiração e veja minha paixão pelo desenvolvimento de software. Sinta-se à vontade para explorar meus repositórios e entrar em contato comigo para discutir oportunidades de colaboração ou projetos interessantes.
 
