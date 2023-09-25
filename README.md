@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Cutive+Mono&size=30&pause=1000&color=2A00FF&center=true&vCenter=true&width=435&lines=Ol%C3%A1+sou+o+Nick!+%F0%9F%98%8E" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Cutive+Mono&size=30&pause=1000&color=2A00FF&center=true&vCenter=true&width=435&lines=Hello+I'm+Nick!+%F0%9F%98%8E" alt="Typing SVG" /></a>
 </p>
 
 Estou animado para compartilhar meus projetos com você neste portfólio. Espero que encontre inspiração e veja minha paixão pelo desenvolvimento de software. Sinta-se à vontade para explorar meus repositórios e entrar em contato comigo para discutir oportunidades de colaboração ou projetos interessantes.
