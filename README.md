@@ -1,4 +1,4 @@
-## Olá sou o Nick! 😎
+<img src="https://readme-typing-svg.herokuapp.com/?color=D3D3D3&size=35&center=true&width=1000&lines=Olá sou o Nick! 😎"/>
 
 Estou animado para compartilhar meus projetos com você neste portfólio. Espero que encontre inspiração e veja minha paixão pelo desenvolvimento de software. Sinta-se à vontade para explorar meus repositórios e entrar em contato comigo para discutir oportunidades de colaboração ou projetos interessantes.
 
