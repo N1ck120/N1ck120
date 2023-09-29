@@ -6,7 +6,7 @@ Estou animado para compartilhar meus projetos com você neste portfólio. Espero
 
 ## Tecnologias em que tenho conhecimento 🤓
 
-<p align="left">
+<p align="center">
   <a href="https://www.python.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="48px"></a>  
   <a href="https://www.javascript.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="48px"></a>  
   <a href="https://html.spec.whatwg.org/multipage/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="48px"></a>  
