@@ -4,7 +4,7 @@
 
 Estou animado para compartilhar meus projetos com você neste portfólio. Espero que encontre inspiração e veja minha paixão pelo desenvolvimento de software. Sinta-se à vontade para explorar meus repositórios e entrar em contato comigo para discutir oportunidades de colaboração ou projetos interessantes.
 
-## Tecnologias em que tenho conhecimento 🤓
+## Tecnologias em que tenho conhecimento ☝️🤓
 
 <p align="center">
   <a href="https://www.python.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="48px"></a>  
